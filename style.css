@@ -1,5 +1,5 @@
 body {
-    background-image: url("bgr.jpeg"); background-size: cover;
+    background-image: url("bgr.jpeg"); background-size: cover; background-repeat: no-repeat;
 }
 
 H1 {
