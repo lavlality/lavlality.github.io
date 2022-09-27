@@ -1,5 +1,5 @@
 body {
-    background-image: url(bgr.jpeg); background-size: cover;
+    background-image: url("bgr.jpeg") no-repeat center center fixed; background-size: cover;
 }
 
 H1 {
