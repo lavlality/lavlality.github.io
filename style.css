@@ -1,5 +1,5 @@
 body {
-    background-image: url("bgr.jpeg"); background-size: cover; background-repeat: no-repeat; background-color:#30050c;
+    background-image: url(bgr.jpeg) ; background-size: cover; background-repeat: no-repeat; background-color:#30050c;
 }
 
 H1 {
@@ -7,30 +7,32 @@ H1 {
 }
 
 ul {list-style:none
-    
+
 }
 a {text-decoration: none; color:800000
-    
+
 }
 
 .nav li {text-align:center
-    
+
 }
 ul.nav a {display: inline-block
-    
+
 }
 .stroke {
     font: 2em Arial, sans-serif;
     text-shadow: red 0 0 1px;}
-    
-.block1 { 
-     
+
+.block1 {
+
     background: #ccc;
     padding: 50px;
-    padding-right: 200px; 
-    border: solid 1px black; 
-    float: center}
-    
+    padding-right: 200px;
+    border: solid 1px black;
+    float: center
+
+}
+
 .ac {
     text-align: center;
 }
@@ -38,4 +40,9 @@ ul.nav a {display: inline-block
 canvas {
    display: block;
    margin: 0 auto;
+}
+
+button {
+  margin: 0 auto;
+  display: block;
 }

@@ -25,7 +25,7 @@ class Tile
             ctx.linewidth = 5
             ctx.fillRect(this.col * tileWidth, this.row * tileHeight, tileWidth, tileHeight)
             ctx.strokeRect(this.col * tileWidth, this.row * tileHeight, tileWidth, tileHeight)
-            ctx.font = `${tileWidth * 0.6}px mistral`
+            ctx.font = `${tileWidth * 0.6}px Mistral`
             ctx.fillStyle = "blue"
             ctx.textAlign = 'center'
             ctx.textBaseline = "middle"
